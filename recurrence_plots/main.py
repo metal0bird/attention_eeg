@@ -3,7 +3,7 @@ import numpy as np
 import pylab as plt
 from scipy.spatial.distance import pdist, squareform
 
-from utils.convolve import calculate_convolve
+from convolve import calculate_convolve
 
 # ----------------- Plot config --------------------------------------- #
 SMALL = 8
