@@ -1,9 +1,11 @@
 /.DS_Store
 images/
-
+models/
 dataset/
-dataset_gam/
+dataset_gaf/
 images_2/
 dataset_2/
 dataset_mtf/
-images_gam/
+images_gaf/
+images_mtf/
+recurrence_plots/
